@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a grocery list
+- Ice Cream
+- Milk
+- Orange Juice
+- Cereal
+- Yogurt
